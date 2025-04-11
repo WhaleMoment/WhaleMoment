@@ -18,7 +18,7 @@ Advanced analytics and trading signals powered by market data and AI.
 Android (iOS coming soon)
 
 🧰 Tech Stack
-Backend: Node.js / Python (TBD)
+Backend: Go Lang / Firebase Scm
 
 Alerts System: WebSockets / REST APIs
 
